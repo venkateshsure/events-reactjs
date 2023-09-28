@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.head-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+.con {
+  background-color: #475569;
+  height: 150vh;
+  flex-shrink: 0;
+  flex-grow: 1;
+  width: 50%;
+}
+
+.ul-con {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: space-around;
+  align-items: center;
+}
+h1 {
+  color: #ffffff;
+}
